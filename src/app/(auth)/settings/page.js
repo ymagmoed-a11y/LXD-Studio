@@ -198,7 +198,7 @@ function UsersTab() {
             </div>
             <div>
               <h3 className="text-headline-sm font-headline text-on-surface">License & Seats</h3>
-              <p className="text-body-sm text-on-surface-variant">Manage your organization's user capacity</p>
+              <p className="text-body-sm text-on-surface-variant">Manage your organization&apos;s user capacity</p>
             </div>
           </div>
           <span className="badge bg-secondary-container/20 text-secondary text-label-sm px-3 py-1.5 font-semibold">Enterprise — 2,000 seats</span>
@@ -496,7 +496,7 @@ function BrandingTab() {
               </div>
               <div>
                 <h3 className="text-headline-sm font-headline text-on-surface">Colors & Typography</h3>
-                <p className="text-body-sm text-on-surface-variant">Customize the platform's appearance</p>
+                <p className="text-body-sm text-on-surface-variant">Customize the platform&apos;s appearance</p>
               </div>
             </div>
 
